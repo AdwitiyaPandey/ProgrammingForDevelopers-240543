@@ -8,6 +8,9 @@ spots = [
     {"name": "Swayambhunath", "cost": 500, "time": 2, "interest": 9, "distance": 5},
     {"name": "Durbar Square", "cost": 1200, "time": 2.5, "interest": 8, "distance": 2},
     {"name": "Garden of Dreams", "cost": 400, "time": 1, "interest": 7, "distance": 1},
+    {"name": "Thamel", "cost": 0, "time": 3, "interest": 6, "distance": 2},
+    {"name": "Patan Durbar Square", "cost": 1000, "time": 2, "interest": 8, "distance": 4},
+    {"name": "Bhaktapur Durbar Square", "cost": 900, "time": 2, "interest": 8, "distance": 6},
 ]
 
 
